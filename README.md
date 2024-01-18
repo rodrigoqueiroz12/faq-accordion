@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/vue-faq-accordion-QHiHyfVARV)
 - Live Site URL: [Preview](https://faq-accordion-three-dun.vercel.app/)
 
 ## My process
@@ -48,7 +48,7 @@ Users should be able to:
 
 ### What I learned
 
-Nesse projeto eu conheci e aprendi a usar a biblioteca Radix Vue, que é semelhante a Radix UI do React.js, e isso me ajudou muito a criar o acordeão acessível e navegável pelo teclado.
+In this project, I got to know and learned how to use the Radix Vue library, which is similar to Radix UI in React.js, and it helped me a lot in creating the keyboard-accessible and navigable accordion.
 
 ### Useful resources
 
